@@ -1,0 +1,12 @@
+# Operating system specific files
+__MACOSX/
+
+# Editor related files
+.vscode/
+
+# Sample data files
+sample-movies.json
+test.json
+
+# Lambda directory and its python dependencies
+lambda/mse.zip
